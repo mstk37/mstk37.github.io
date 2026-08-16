@@ -25,3 +25,6 @@ Pour utiliser de vraies photos, remplace ensuite la zone `.product-art` par une 
 
 ## Commandes
 Le panier ne prend aucun paiement. Il prépare un message WhatsApp avec le détail du panier et l'envoie au numéro MSTKPRINT37.
+##Déploiement V14
+
+Commit changes sur la branche main.
